@@ -3,7 +3,7 @@
 Bu projede bir yemek tarifi web sitesindeki her bir yemek için görüntülenecek kartı oluşturuyoruz. Projedeki Card Componenti bir yemek tarifinin detaylarını, yazarını, beğeni sayısını ve kullanıcın tarifi beğenip beğenmediğine dair birtakım bilgileri gösteriyor.
 
 
-[https://github.com/alpercevizz/recipe-card/blob/main/recipe-app/src/assets/%C4%B0skender.jpg]
+[https://github.com/alpercevizz/recipe-card/blob/main/recipe-app/src/assets/%C4%B0skender.jpg]()
 
 ### Proje Nasıl Çalıştırılır
 Projeyi fork'ladıktan ya da indirdikten sonra projenin bulunduğu klasörde "npm install" komutu ile gerekli paketlerin yüklenmesi gerekiyor.
